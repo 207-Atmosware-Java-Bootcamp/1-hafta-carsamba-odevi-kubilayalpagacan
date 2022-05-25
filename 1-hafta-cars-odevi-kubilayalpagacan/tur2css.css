@@ -1,0 +1,25 @@
+#redone{
+    border: 8px solid red;
+    width: 700px;
+    height: 300px;
+    background: black;
+}
+#leftone{
+    margin-top: 90px;
+    float:left;
+    border:3px solid yellow;
+    width: 300px;
+    height: 100px;
+}
+#rightone{
+        margin-top: 90px;
+        float:right;
+        border:3px solid yellow;
+        width: 300px;
+        height: 100px;
+}
+p{
+    text-align: center;
+    color: rgb(22, 145, 227);
+    font-size: 35px;
+}
